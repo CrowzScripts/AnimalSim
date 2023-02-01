@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('http://www.wolfscript.org/AnimalSimVM.lua'))()
+loadstring(game:HttpGet('http://wolfscript.org/AnimalSimVM.lua'))()
