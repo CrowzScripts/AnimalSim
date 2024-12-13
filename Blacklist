@@ -1,0 +1,14 @@
+[
+  {
+    "username": "username1",
+    "reason": "Reason for username1"
+  },
+  {
+    "username": "username2",
+    "reason": "Reason for username2"
+  },
+  {
+    "username": "username3",
+    "reason": "Reason for username3"
+  }
+]
